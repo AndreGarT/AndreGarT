@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 Hola, mi nombre es André García
-- 🔭 Actualmente estoy estudiando en la Universidad Nacional de Piura
-- ⚡ La carrera de Ingeniería Informática
+- 🔭 Egresado en Ingeniería Informática
+- ⚡ En Universidad Nacional de Piura
 
 ### Tecnologías:
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-%230064a5?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)
